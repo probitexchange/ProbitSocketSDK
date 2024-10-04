@@ -1,10 +1,7 @@
-src/
 tsconfig.json
 .eslintignore
 .eslintrc.js
 .prettierrc
 .prettierignore
-.node-version
 test/
-scripts/
-.vscode/
+.github
