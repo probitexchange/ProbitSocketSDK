@@ -1,12 +1,12 @@
 {
     "name": "@probitexchange/probit-socket-sdk",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Software Development Kit designated for Probit Global Exchange",
+    "types": "dist/index.d.ts",
     "main": "dist/index.js",
     "scripts": {
-        "dev": "ts-node index",
-        "build": "tsc",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "build":"tsc --build",
+        "prepare": "npm run build"
     },
     "keywords": [],
     "repository": {
