@@ -1,5 +1,5 @@
 {
-    "name": "@openapi/probit-sdk",
+    "name": "@probitexchange/probit-socket-sdk",
     "version": "1.0.0",
     "description": "Software Development Kit designated for Probit Global Exchange",
     "main": "dist/index.js",
@@ -11,7 +11,7 @@
     "keywords": [],
     "repository": {
         "type": "git",
-        "url": "https://git.corp.probitglobal.com/openapi/probitSDK"
+        "url": "https://github.com/probitexchange/ProbitSocketSDK-node.git"
     },
     "author": "Probit Global",
     "license": "ISC",
