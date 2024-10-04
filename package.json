@@ -1,6 +1,6 @@
 {
     "name": "@probitexchange/probit-socket-sdk",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Software Development Kit designated for Probit Global Exchange",
     "main": "dist/index.js",
     "scripts": {
