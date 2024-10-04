@@ -1,0 +1,32 @@
+{
+    "name": "@openapi/probit-sdk",
+    "version": "1.0.0",
+    "description": "Software Development Kit designated for Probit Global Exchange",
+    "main": "dist/index.js",
+    "scripts": {
+        "dev": "ts-node index",
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "repository": {
+        "type": "git",
+        "url": "https://git.corp.probitglobal.com/openapi/probitSDK"
+    },
+    "author": "Probit Global",
+    "license": "ISC",
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^29.5.12",
+        "@types/node": "^22.1.0",
+        "@types/ws": "^8.5.12",
+        "jest": "^29.7.0",
+        "typescript": "^5.5.4"
+    },
+    "dependencies": {
+        "axios": "^1.7.3",
+        "ws": "^8.18.0"
+    }
+}

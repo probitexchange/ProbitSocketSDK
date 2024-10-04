@@ -1,0 +1,5 @@
+coverage/\*\*
+
+lib/common/lang/_.js
+tools/_.js
+tools/separate/\*.js
